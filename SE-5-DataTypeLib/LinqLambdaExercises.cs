@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SE5DataTypes
+namespace SE_5_DataTypeLib
 {
+    class LinqLambdaExercises
+    {
+    }
 }

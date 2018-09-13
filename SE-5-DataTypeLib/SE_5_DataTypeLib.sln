@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SE-5-DataTypeLib", "SE-5-DataTypeLib.csproj", "{1957B85C-0D58-4844-AC61-85E5D6E53974}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SE_5_DataTypeLib", "SE_5_DataTypeLib.csproj", "{1957B85C-0D58-4844-AC61-85E5D6E53974}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "..\UnitTestProject1\Tests.csproj", "{40137E92-4D47-4D13-90B3-1CC0007F0B92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1957B85C-0D58-4844-AC61-85E5D6E53974}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1957B85C-0D58-4844-AC61-85E5D6E53974}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1957B85C-0D58-4844-AC61-85E5D6E53974}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40137E92-4D47-4D13-90B3-1CC0007F0B92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40137E92-4D47-4D13-90B3-1CC0007F0B92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40137E92-4D47-4D13-90B3-1CC0007F0B92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40137E92-4D47-4D13-90B3-1CC0007F0B92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
